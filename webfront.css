@@ -55,6 +55,10 @@ div.ipsWebFront {
 	background-image: none !important;
 }
 
+div.ipsContainer.ipsPanel.ipsExternalPage{
+	background-color: #000000 !important;
+}
+
 /* Navigationsbalke in der erste Reihe */
 .ipsWebFront>.ipsTabPane>.navigation {
 	background-color: #000000;
