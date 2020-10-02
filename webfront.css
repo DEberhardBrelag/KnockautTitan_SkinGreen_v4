@@ -36,7 +36,7 @@ body {
 /* Farbe verändern */
 
 /* Hintergrund beim Loging */
-.ipsLogin {
+.ipsContainer.ipsPanel.ipsExternalPage {
 	background-color: #36302F;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
@@ -50,7 +50,7 @@ body {
 }
 
 /* Unbekannt */
-div.ipsWebFront {
+div.ipsExternalPage.ipsPanel {
 	background-color: #000000 !important;
 	background-image: none !important;
 }
