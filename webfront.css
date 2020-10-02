@@ -73,9 +73,6 @@ div.logoTop.logo.notSelectable {
 	margin-left: 25%;
 	margin-top: 20px;
 }
-.ipsLogin>.content>.configurators {
-	display: none !important;
-}
 
 /* Navigationsbalke in der erste Reihe */
 .ipsWebFront>.ipsTabPane>.navigation {
