@@ -56,21 +56,6 @@ div.ipsWebFront {
 }
 
 /* splash screen replacement */
-div.ipsLogin.notSelectable{
-	background-color: #000000 !important;
-	background-image: none !important;
-}
-div.logoTop.logo.notSelectable {
-	background-color: #000000 !important;
-	background-image: none !important;
-}
-div.configurators.fly{
-	display: none !important;
-}
-div.logoBottom.notSelectable {
-	background-color: #000000 !important;
-	background-image: none !important;
-}
 
 /* Navigationsbalke in der erste Reihe */
 .ipsWebFront>.ipsTabPane>.navigation {
