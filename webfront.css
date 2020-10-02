@@ -62,9 +62,10 @@ div.ipsLogin.notSelectable{
 div.logoTop.notSelectable {
 	display: none !important;
 }
+/*
 div.configurators.fly{
 	display: none !important;
-}
+}*/
 div.logoBottom.notSelectable {
 	display: none !important;
 }
